@@ -1,0 +1,2 @@
+# ejemplo
+informacin general
